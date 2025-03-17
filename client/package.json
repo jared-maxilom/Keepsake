@@ -9,7 +9,7 @@
     "@material-ui/lab": "^4.0.0-alpha.58",
     "@react-oauth/google": "^0.11.0",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.21.3",
     "dotenv": "^16.1.4",
